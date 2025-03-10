@@ -1,2 +1,2 @@
 # python_learing
-# For oubaid harbi
+learn progrmming
